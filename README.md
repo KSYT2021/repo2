@@ -1,3 +1,3 @@
 # repo2
-is to learn ans tsatrt git
+is to learn and start git
 Thank You

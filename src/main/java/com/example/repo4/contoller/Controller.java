@@ -9,6 +9,8 @@ public class Controller {
 	public String m1() {
 		return  "welcome";
 	}
-	
-
+ @GetMapping("/demo")
+ public String m2() {
+	 return  "demo";
+ }
 }
